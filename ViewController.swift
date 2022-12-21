@@ -67,6 +67,7 @@ class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSo
         }
         currencyManager.getCurrencyPrice()
 //        print(rowName)
+        
     }
 }
 
